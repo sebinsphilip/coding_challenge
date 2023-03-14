@@ -7,4 +7,6 @@ The three coding challenges and its solutions are given as below:
 3. ["2013-HKN.pdf"] (2013-HKN.pdf)  -  Binary palindrome - ["palindrome.c"] (palindrome.c)
 
 The file ["traffic_state_machine.pdf"](traffic_state_machine.pdf) represents the state machine implemented for 
-the "1. Traffic light checker" problem.
+the "1. Traffic light checker" problem, as shown below:
+
+![alt text](https://github.com/sebinsphilip/coding_challenge/blob/main/state_machine.png?raw=true)
